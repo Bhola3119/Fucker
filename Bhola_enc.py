@@ -3,4 +3,5 @@ bit = platform.architecture()[0]
 if bit == '64bit':
     os.system('git pull')
     import Bhola_enc
-name.bholwa()
+    if __name__ == '__main__':
+    bholwa()
